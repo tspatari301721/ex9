@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.exe
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.deps.json
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.runtimeconfig.json
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.runtimeconfig.dev.json
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.dll
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.pdb
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.AssemblyInfo.cs
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.dll
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.pdb
+C:\Users\user\source\repos\WindowsFormsApp1Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.genruntimeconfig.cache
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.exe
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.deps.json
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.runtimeconfig.json
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.runtimeconfig.dev.json
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.dll
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\bin\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.pdb
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.csprojAssemblyReference.cache
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.Form1.resources
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.csproj.GenerateResource.cache
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.AssemblyInfoInputs.cache
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.AssemblyInfo.cs
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.dll
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.pdb
+C:\Users\Lazarev Eugen\Desktop\MASTERAT\Gasnas Ala\Loborator\WindowsFormsApp5Ex9\WindowsFormsApp1Ex9\obj\Debug\netcoreapp3.1\WindowsFormsApp1Ex9.genruntimeconfig.cache
